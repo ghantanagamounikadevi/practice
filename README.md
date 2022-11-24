@@ -11,12 +11,12 @@
 >>toys<br>
 >>others<br>
 ### Un ordered list
-*Grocer list
+* Grocer list
 * tomato<br>
 * corn<br>
-*onion<br>
-    *ice creams<br>
-    *chocolates<br>
-*Non-veg<br>
-    *chicken<br>
-    *fish<br>
+* onion<br>
+    * ice creams<br>
+    * chocolates<br>
+* Non-veg<br>
+    * chicken<br>
+    * fish<br>
