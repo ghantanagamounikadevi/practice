@@ -4,7 +4,7 @@
 #### I would like to buy some items
 >One is for food
 >>cakes<br>
->>ice creams<br>
+>>ice ``creams``<br>
 >>chocos<br>
 >One for decoration<br>
 >>plants<br>
