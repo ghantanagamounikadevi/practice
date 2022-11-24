@@ -35,12 +35,16 @@
 
 THIS IS MY PRACTICE LINE WHICH IS SHOWING HORIZONTAL LINES.
 ***
-
+///
 I DON'T KNOW EXACTLY WHEATHER IT IS WORK OR NOT.
 ---
 I WILL TRY TILL\_IT\_WORKS.
 # [image](another.md)
-| #### **city** | ### **state** | #### **country** |
+| **city** | **state** |  **country** |
 | ------ | -----| ------- |
 | *hyd* | *tn* | *india* |
 | ``maryville`` | ``missouri`` | ``usa`` |
+
+[ ] item1<br>
+[]item2<br>
+[x] item3<br>
