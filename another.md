@@ -1,1 +1,1 @@
-# use ![practice](img1)
+# use ![practice](img1.jpg)
